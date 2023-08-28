@@ -11,4 +11,4 @@
 🔗 **Links**
 
 - [Linkedin](https://www.linkedin.com/in/smarth-arora/)
-- [Hacker Rank](https://www.hackerrank.com/datagonerogue)
+- [Hacker Earth](https://www.hackerearth.com/@datagonerogue)
